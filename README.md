@@ -93,3 +93,18 @@ I am a Technicien spécialisé en développement digital with over 1 year of exp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
 </p>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://www.oracle.com/java/technologies/javaee-jee-8-technology.html" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java ee" width="40" height="40"/> 
+</a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="maven" width="40" height="40"/> 
+</a>
+<a href="https://jakarta.ee/" target="_blank" rel="noreferrer"> 
+  <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo.svg" alt="jakarta ee" width="40" height="40"/> 
+</a>
