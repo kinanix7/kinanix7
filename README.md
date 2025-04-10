@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Younes Elkinani!
 
-💻 Mobile & Web Developer | Android Specialist | Multi-Language Programmer
+💻 Mobile & Web Developer | Android Specialist  | Multi-Language Programmer
 
 I am a Technicien spécialisé en développement digital with over 1 year of experience in creating intuitive, high-performance mobile applications and responsive web solutions. Proficient in Java, Kotlin, C, Python, PHP, Android Studio, and Flutter, I thrive on delivering seamless user experiences through optimized and clean code.
 
@@ -83,16 +83,12 @@ I am a Technicien spécialisé en développement digital with over 1 year of exp
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
-</p>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a>
@@ -108,3 +104,4 @@ I am a Technicien spécialisé en développement digital with over 1 year of exp
 <a href="https://jakarta.ee/" target="_blank" rel="noreferrer"> 
   <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo.svg" alt="jakarta ee" width="40" height="40"/> 
 </a>
+</p>
