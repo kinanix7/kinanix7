@@ -2,22 +2,18 @@
 
 👋 Hello, I'm Younes Elkinani!
 
-
-
 💻 Mobile & Web Developer | Android Specialist | Multi-Language Programmer
 
 I am a Technicien spécialisé en développement digital with over 1 year of experience in creating intuitive, high-performance mobile applications and responsive web solutions. Proficient in Java, Kotlin, C, Python, PHP, Android Studio, and Flutter, I thrive on delivering seamless user experiences through optimized and clean code.
 
 🌟 What I bring:
+- Expertise in Android development, cross-platform apps, and back-end solutions.
+- A solid foundation in C, Python, and PHP for diverse programming needs.
+- A passion for crafting robust digital solutions from concept to deployment.
 
-Expertise in Android development, cross-platform apps, and back-end solutions.
-A solid foundation in C, Python, and PHP for diverse programming needs.
-A passion for crafting robust digital solutions from concept to deployment.
 📂 Check out my repositories to explore my projects, including mobile apps, Telegram bots, and innovative tools for digital development.
 
 🚀 Let’s connect and build something great!
-
-
 
 <p align="left">
 </p>
@@ -97,5 +93,3 @@ A passion for crafting robust digital solutions from concept to deployment.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
 </p>
-
-
