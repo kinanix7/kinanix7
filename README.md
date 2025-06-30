@@ -105,3 +105,10 @@ I am a Technicien spécialisé en développement digital with over 1 year of exp
   <img src="https://jakarta.ee/images/jakarta/jakarta-ee-logo.svg" alt="jakarta ee" width="40" height="40"/> 
 </a>
 </p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
